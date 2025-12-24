@@ -21,7 +21,7 @@ repository               : "fcbayernwzp/fcbayernwzp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhipeng_profile.png"
+  avatar           : "zhipeng_portrait.png"
   name             : "Zhipeng Wang"
   pronouns         : # example: "she/her"  
   bio              : "ML resesarcher specialized in ML Systems, Multimodal Models and LLM post-training"
