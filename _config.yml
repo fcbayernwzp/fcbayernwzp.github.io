@@ -21,18 +21,18 @@ repository               : "fcbayernwzp/fcbayernwzp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "zhipeng_profile.png"
+  name             : "Zhipeng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "ML resesarcher specialized in ML Systems, Multimodal Models and LLM post-training"
+  location         : "Palo Alto, CA"
+  employer         : "LinkedIn Corporation"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhipengbayern@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OdubVmAAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
