@@ -14,6 +14,7 @@ I am a ML researcher working in the area of ML Systems, Multimodal LLM (mainly V
 
 ## Selected publications 
 
-url: /publications/
+- **Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems**  
+  *Kayhan Behdin, Ata Fatahi, Qingquan Song, Yun Dai, Aman Gupta, Zhipeng Wang et.al* (2025). EMNLP.
 
 ## Open Source Contributions
