@@ -14,4 +14,6 @@ I am a ML researcher working in the area of ML Systems, Multimodal LLM (mainly V
 
 ## Selected publications 
 
+url: /publications/
+
 ## Open Source Contributions
