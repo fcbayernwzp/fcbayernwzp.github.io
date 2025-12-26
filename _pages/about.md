@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I am Zhipeng, a ML Researcher specialized in ML Systems"
+title: "Hello there, I am Zhipeng!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Staff ML Researcher working in the area of ML Systems, Multimodal LLM (mainly Vision-Language Models) and LLM post-training. I am currently leading the AI research team at LinkedIn, and previously I worked at AWS AI Labs leading the SageMaker Applied Science Team. I was also the Tech Lead Manager/Staff Software Engineer at Google Research/Google[X] and Staff Research Scientist at Apple. 
+I am a ML researcher working in the area of ML Systems, Multimodal LLM (mainly Vision-Language Models) and LLM post-training. I am currently Senior Manager/Senior Staff Research Scientist leading the AI research team at LinkedIn, and previously I worked at AWS AI Labs leading the SageMaker Applied Science Team. I was also the Tech Lead Manager/Staff Software Engineer at Google Research/Google[X] and Staff Research Scientist at Apple. 
 
 Getting started
 ======
