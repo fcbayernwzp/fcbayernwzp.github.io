@@ -16,7 +16,7 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 <!--# Selected Experiences-->
 ## Talks and Tutorials 
-- **Building Efficient Large-Scale Model Systems with DeepSpeed: From Open-Source Foundations to Emerging Research**  
+- **[Building Efficient Large-Scale Model Systems with DeepSpeed: From Open-Source Foundations to Emerging Research](https://supercomputing-system-ai-lab.github.io/events/asplos2026-llm-tutorial/index.html)**  
   Olatunji Ruwase, Minjia Zhang, Masahiro Tanaka, Zhipeng Wang, **ASPLOS 2026 Tutorial**
 
 - **Ray x DeepSpeed Meetup: AI at Scale**  
@@ -24,28 +24,27 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 ## Selected Recent Publications 
 
-- **Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems**  
+- **[Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems](https://aclanthology.org/2025.emnlp-industry.119.pdf)**  
   Kayhan Behdin, Ata Fatahi, Qingquan Song, Yun Dai, Aman Gupta, Zhipeng Wang et.al (2025). The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), **oral presentation**
 
-- **EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models**
+- **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](https://arxiv.org/abs/2508.11886)**
   Wenhui Zhu*, Xiwen Chen*, Zhipeng Wang*#, Shao Tang, Sayan Ghosh, Xuanzhao Dong, Rajat Koner, Yalin Wang (2026). IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). (* equal contribution, # corresponding author)
 
-- **Liger-Kernel: Efficient Triton Kernels for LLM Training**
+- **[Liger-Kernel: Efficient Triton Kernels for LLM Training](https://openreview.net/forum?id=36SjAIT42G)**
   Pin-Lun Hsu, Yun Dai, Vignesh Kothapalli, Qingquan Song, Shao Tang, Siyu Zhu, Steven Shimizu, Shivam Sahni, Haowen Ning, Yanning Chen, Zhipeng Wang (2025). Championing Open-source DEvelopment in ML Workshop @ ICML25
 
-- **Local2Global query Alignment for Video Instance Segmentation** 
+- **[Local2Global query Alignment for Video Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Koner_Local2Global_query_Alignment_for_Video_Instance_Segmentation_ICCVW_2025_paper.pdf)** 
   Rajat Koner, Zhipeng Wang, Srinivas Parthasarathy, Chinghang Chen (2025). Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)
 
-- **Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction** 
+- **[Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction](https://arxiv.org/abs/2509.12464)** 
   Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Qingquan Song, Shao Tang, Rahul Mazumder(2025). NeurIPS Efficient Reasoning Workshop. (in review with ICLR 2026) 
 
-- **Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs** 
+- **[Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs](https://arxiv.org/abs/2509.25779)** 
   Siyu Zhu, Yanbin Jiang, Hejian Sang, Shao Tang, Qingquan Song, Biao He, Rohit Jain, Zhipeng Wang, Alborz Geramifard(2025). In review with ICLR 2026
 
-- **Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search** 
+- **[Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search](https://arxiv.org/pdf/2510.22101)** 
   Kayhan Behdin, Qingquan Song, Sriram Vasudevan, Jian Sheng, Xiaojing Ma, Z Zhou, Chuanrui Zhu, Guoyao Li, Chanh Nguyen, Sayan Ghosh, Hejian Sang, Ata Fatahi Baarzi, Sundara Raman Ramachandran, Xiaoqing Wang, Qing Lan, Qi Guo, Caleb Johnson, Zhipeng Wang*, Fedor Borisyuk. [preprint](https://arxiv.org/abs/2510.22101) (* Corresponding author)
 
 ## Open Source Contributions
 
 I am the TSC Committer and code maintainer for [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) project, one of the most popular OSS libraries for LLM training. I also help maintain the [Liger Kernel](https://github.com/linkedin/Liger-Kernel) project, feel free to raise issues and contribute PRs. 
-
