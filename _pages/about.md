@@ -130,13 +130,37 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/publications/neurips2025_reasoning_pruning.png" alt="Reasoning Pruning">
+    <img src="/images/publications/iclr2026_rac.png" alt="Reasoning-Aware Compression">
   </div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2509.12464">Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction</a></div>
+    <div class="pub-title"><a href="https://openreview.net/forum?id=tyGfwG6xTh">Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction</a></div>
     <div class="pub-authors">Ryan Lucas, Kayhan Behdin, <strong>Zhipeng Wang</strong>, Qingquan Song, Shao Tang, Rahul Mazumder</div>
-    <div class="pub-venue">NeurIPS 2025 Efficient Reasoning Workshop (in review with ICLR 2026)</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2509.12464">Paper</a>]</div>
+    <div class="pub-venue">ICLR 2026</div>
+    <div class="pub-links">[<a href="https://openreview.net/forum?id=tyGfwG6xTh">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/cvpr2026_llada_medv.png" alt="LLaDA-MedV">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2508.01617">LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding</a></div>
+    <div class="pub-authors">Xuanzhao Dong, Wenhui Zhu, Xiwen Chen, <strong>Zhipeng Wang</strong>, Peijie Qiu, Shao Tang, Xin Li, Yalin Wang</div>
+    <div class="pub-venue">CVPR 2026</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2508.01617">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/cvpr2026_otprune.png" alt="OTPrune">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2602.20205">OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport</a></div>
+    <div class="pub-authors">Xiwen Chen, Wenhui Zhu, Gen Li, Xuanzhao Dong, Yujian Xiong, Hao Wang, Peijie Qiu, Qingquan Song, <strong>Zhipeng Wang</strong>, Shao Tang, Yalin Wang, Abolfazl Razi</div>
+    <div class="pub-venue">CVPR 2026</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2602.20205">Paper</a>]</div>
   </div>
 </div>
 
