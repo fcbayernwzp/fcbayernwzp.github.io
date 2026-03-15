@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+News
+======
+- We won **Best Paper Award** in [Visual Art, Generative AI, and the Legal/Ethical Dilemma Workshop @ WACV 2026](https://sites.google.com/view/vagaled-wacv2026/) for our paper titled *"EZBlender: Efficient 3D Editing with Plan-and-React Agent"*!
+
 I am a seasoned scientist & engineer working in the field of Machine Learning Systems with a primary focus on the optimization of large-scale distributed training and inference systems for foundation models and large language models (LLMs). Distinct from many other ML Systems researchers, my work also extends into core modeling research. My core modeling research mainly focuses on efficient AI—particularly LLM compression, knowledge distillation, LLM post-training methodologies, Agentic Reinforcement Learning and Vision-Language Models (VLM). Some of the research findings are published in *EMNLP, ICCV, ECCV, WACV, ICML and NeurIPS etc.* 
 
 **Some of the representative ML Systems that I was involved in the development phase** including [DeepSpeed](https://github.com/deepspeedai/DeepSpeed), one of the most popular OSS LLM distributed training library (code maintainer and TSC Committer); [fmchisel](https://github.com/linkedin/fmchisel), the state-of-the-art Foundation Models Optimization research library (e.g. knowledge distillation,compression and quantization etc); and [Liger Kernel](https://github.com/linkedin/Liger-Kernel) (Kudos to Byron Hsu and Yun Dai et al for leading the work). 
