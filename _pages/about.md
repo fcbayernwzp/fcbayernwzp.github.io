@@ -183,7 +183,7 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2510.22101">Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search</a></div>
     <div class="pub-authors">Kayhan Behdin, Qingquan Song, Sriram Vasudevan, Jian Sheng, Xiaojing Ma, Z Zhou, Chuanrui Zhu, Guoyao Li, Chanh Nguyen, Sayan Ghosh, Hejian Sang, Ata Fatahi Baarzi, Sundara Raman Ramachandran, Xiaoqing Wang, Qing Lan, Qi Guo, Caleb Johnson, <strong>Zhipeng Wang</strong>*, Fedor Borisyuk</div>
-    <div class="pub-venue">Preprint (* Corresponding author)</div>
+    <div class="pub-venue">MLSys 2026 (* Corresponding author)</div>
     <div class="pub-links">[<a href="https://arxiv.org/abs/2510.22101">Paper</a>]</div>
   </div>
 </div>
