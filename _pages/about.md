@@ -146,8 +146,8 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
   </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2508.01617">LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding</a></div>
-    <div class="pub-authors">Xuanzhao Dong, Wenhui Zhu, Xiwen Chen, <strong>Zhipeng Wang</strong>, Peijie Qiu, Shao Tang, Xin Li, Yalin Wang</div>
-    <div class="pub-venue">CVPR 2026</div>
+    <div class="pub-authors">Xuanzhao Dong*, Wenhui Zhu*, Xiwen Chen*, <strong>Zhipeng Wang</strong>*, Peijie Qiu, Shao Tang, Xin Li, Yalin Wang</div>
+    <div class="pub-venue">CVPR 2026 (* equal contribution)</div>
     <div class="pub-links">[<a href="https://arxiv.org/abs/2508.01617">Paper</a>]</div>
   </div>
 </div>
@@ -158,8 +158,8 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
   </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2602.20205">OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport</a></div>
-    <div class="pub-authors">Xiwen Chen, Wenhui Zhu, Gen Li, Xuanzhao Dong, Yujian Xiong, Hao Wang, Peijie Qiu, Qingquan Song, <strong>Zhipeng Wang</strong>, Shao Tang, Yalin Wang, Abolfazl Razi</div>
-    <div class="pub-venue">CVPR 2026</div>
+    <div class="pub-authors">Xiwen Chen, Wenhui Zhu, Gen Li, Xuanzhao Dong, Yujian Xiong, Hao Wang, Peijie Qiu, Qingquan Song, <strong>Zhipeng Wang</strong>#, Shao Tang, Yalin Wang, Abolfazl Razi</div>
+    <div class="pub-venue">CVPR 2026 (# corresponding author)</div>
     <div class="pub-links">[<a href="https://arxiv.org/abs/2602.20205">Paper</a>]</div>
   </div>
 </div>
