@@ -14,6 +14,9 @@ I am a seasoned scientist & engineer working in the field of Machine Learning Sy
 
 In the corporate world, I am Senior Manager/Senior Staff Research Scientist leading the Foundational AI algorithms organization at LinkedIn (subsidary of Microsoft). Previously I worked at AWS AI organization at Amazon, where I was leading the SageMaker Applied Science Team contributing to LLM Inference/Distributed Training and Evaluation Services. I was also the Tech Lead Manager/Staff Software Engineer at Google[X]/Google Research, where I was building up the machine learning team for the Moonshot project [Chorus](https://x.company/projects/chorus/) and engaged in AIDA project building [coding agent using LLM](https://x.company/projects/aida/) (now part of Gemini). I was also involved in PaLM model development work across Alphabet. Before that I was Staff Research Scientist at Apple, where I lead the development of ML Algorithms for [Sleep Apnea Detection on Apple Watch](https://www.apple.com/health/pdf/sleep-apnea/Sleep_Apnea_Notifications_on_Apple_Watch_September_2024.pdf). 
 
+## News
+- We won **Best Paper Award** in [Visual Art, Generative AI, and the Legal/Ethical Dilemma Workshop @ WACV 2026](https://sites.google.com/view/vagaled-wacv2026/) for our paper titled *"EZBlender: Efficient 3D Editing with Plan-and-React Agent"*!
+
 <!--# Selected Experiences-->
 ## Talks and Tutorials 
 - **[Building Efficient Large-Scale Model Systems with DeepSpeed: From Open-Source Foundations to Emerging Research](https://supercomputing-system-ai-lab.github.io/events/asplos2026-llm-tutorial/index.html)**  
