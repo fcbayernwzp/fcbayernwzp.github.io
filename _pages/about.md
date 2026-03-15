@@ -25,28 +25,144 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 - **Ray x DeepSpeed Meetup: AI at Scale**  
   Olatunji Ruwase, Masahiro Tanaka, Vinay Sridhar and Zhipeng Wang, [slides](https://docs.google.com/presentation/d/1eM3mY6oW9GYkRy1Xz0iOnbbEr5T1t0JJXOM5BKtR-Ks/edit?slide=id.g38615d6b4c2_0_87#slide=id.g38615d6b4c2_0_87)  
 
-## Selected Recent Publications 
+<style>
+.pub-entry {
+  display: flex;
+  margin-bottom: 25px;
+  align-items: flex-start;
+}
+.pub-img {
+  flex-shrink: 0;
+  width: 180px;
+  margin-right: 20px;
+}
+.pub-img img {
+  width: 180px;
+  border-radius: 4px;
+  object-fit: cover;
+}
+.pub-text {
+  flex: 1;
+}
+.pub-title {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.pub-authors {
+  color: #555;
+  font-size: 0.92em;
+  margin-bottom: 2px;
+}
+.pub-venue {
+  font-size: 0.92em;
+  color: #333;
+  margin-bottom: 4px;
+}
+.pub-highlight {
+  color: #691616;
+  font-weight: 600;
+  font-size: 0.9em;
+}
+.pub-links {
+  font-size: 0.9em;
+  margin-top: 4px;
+}
+.pub-links a {
+  margin-right: 8px;
+}
+@media (max-width: 600px) {
+  .pub-entry { flex-direction: column; }
+  .pub-img { width: 100%; margin-right: 0; margin-bottom: 10px; }
+  .pub-img img { width: 100%; }
+}
+</style>
 
-- **[Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems](https://aclanthology.org/2025.emnlp-industry.119.pdf)**  
-  Kayhan Behdin, Ata Fatahi, Qingquan Song, Yun Dai, Aman Gupta, Zhipeng Wang et.al (2025). The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), **oral presentation**
+## Selected Recent Publications
 
-- **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](https://arxiv.org/abs/2508.11886)**
-  Wenhui Zhu*, Xiwen Chen*, Zhipeng Wang*#, Shao Tang, Sayan Ghosh, Xuanzhao Dong, Rajat Koner, Yalin Wang (2026). IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). (* equal contribution, # corresponding author)
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/emnlp2025_scaling_down.png" alt="Scaling Down, Serving Fast">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://aclanthology.org/2025.emnlp-industry.119.pdf">Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems</a></div>
+    <div class="pub-authors">Kayhan Behdin, Ata Fatahi, Qingquan Song, Yun Dai, Aman Gupta, <strong>Zhipeng Wang</strong> et al.</div>
+    <div class="pub-venue">EMNLP 2025</div>
+    <div class="pub-highlight">Oral Presentation</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2025.emnlp-industry.119.pdf">Paper</a>]</div>
+  </div>
+</div>
 
-- **[Liger-Kernel: Efficient Triton Kernels for LLM Training](https://openreview.net/forum?id=36SjAIT42G)**
-  Pin-Lun Hsu, Yun Dai, Vignesh Kothapalli, Qingquan Song, Shao Tang, Siyu Zhu, Steven Shimizu, Shivam Sahni, Haowen Ning, Yanning Chen, Zhipeng Wang (2025). Championing Open-source DEvelopment in ML Workshop @ ICML25
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/wacv2026_evtp_ivs.png" alt="EVTP-IVS">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2508.11886">EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models</a></div>
+    <div class="pub-authors">Wenhui Zhu*, Xiwen Chen*, <strong>Zhipeng Wang</strong>*#, Shao Tang, Sayan Ghosh, Xuanzhao Dong, Rajat Koner, Yalin Wang</div>
+    <div class="pub-venue">WACV 2026 (* equal contribution, # corresponding author)</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2508.11886">Paper</a>]</div>
+  </div>
+</div>
 
-- **[Local2Global query Alignment for Video Instance Segmentation](https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Koner_Local2Global_query_Alignment_for_Video_Instance_Segmentation_ICCVW_2025_paper.pdf)** 
-  Rajat Koner, Zhipeng Wang, Srinivas Parthasarathy, Chinghang Chen (2025). Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/icml2025_liger_kernel.png" alt="Liger Kernel">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://openreview.net/forum?id=36SjAIT42G">Liger-Kernel: Efficient Triton Kernels for LLM Training</a></div>
+    <div class="pub-authors">Pin-Lun Hsu, Yun Dai, Vignesh Kothapalli, Qingquan Song, Shao Tang, Siyu Zhu, Steven Shimizu, Shivam Sahni, Haowen Ning, Yanning Chen, <strong>Zhipeng Wang</strong></div>
+    <div class="pub-venue">ICML 2025 CODE Workshop</div>
+    <div class="pub-links">[<a href="https://openreview.net/forum?id=36SjAIT42G">Paper</a>] [<a href="https://github.com/linkedin/Liger-Kernel">Code</a>]</div>
+  </div>
+</div>
 
-- **[Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction](https://arxiv.org/abs/2509.12464)** 
-  Ryan Lucas, Kayhan Behdin, Zhipeng Wang, Qingquan Song, Shao Tang, Rahul Mazumder(2025). NeurIPS Efficient Reasoning Workshop. (in review with ICLR 2026) 
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/iccv2025_local2global.png" alt="Local2Global">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Koner_Local2Global_query_Alignment_for_Video_Instance_Segmentation_ICCVW_2025_paper.pdf">Local2Global query Alignment for Video Instance Segmentation</a></div>
+    <div class="pub-authors">Rajat Koner, <strong>Zhipeng Wang</strong>, Srinivas Parthasarathy, Chinghang Chen</div>
+    <div class="pub-venue">ICCV 2025</div>
+    <div class="pub-links">[<a href="https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Koner_Local2Global_query_Alignment_for_Video_Instance_Segmentation_ICCVW_2025_paper.pdf">Paper</a>]</div>
+  </div>
+</div>
 
-- **[Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs](https://arxiv.org/abs/2509.25779)** 
-  Siyu Zhu, Yanbin Jiang, Hejian Sang, Shao Tang, Qingquan Song, Biao He, Rohit Jain, Zhipeng Wang, Alborz Geramifard(2025). In review with ICLR 2026
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/neurips2025_reasoning_pruning.png" alt="Reasoning Pruning">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2509.12464">Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction</a></div>
+    <div class="pub-authors">Ryan Lucas, Kayhan Behdin, <strong>Zhipeng Wang</strong>, Qingquan Song, Shao Tang, Rahul Mazumder</div>
+    <div class="pub-venue">NeurIPS 2025 Efficient Reasoning Workshop (in review with ICLR 2026)</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2509.12464">Paper</a>]</div>
+  </div>
+</div>
 
-- **[Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search](https://arxiv.org/pdf/2510.22101)** 
-  Kayhan Behdin, Qingquan Song, Sriram Vasudevan, Jian Sheng, Xiaojing Ma, Z Zhou, Chuanrui Zhu, Guoyao Li, Chanh Nguyen, Sayan Ghosh, Hejian Sang, Ata Fatahi Baarzi, Sundara Raman Ramachandran, Xiaoqing Wang, Qing Lan, Qi Guo, Caleb Johnson, Zhipeng Wang*, Fedor Borisyuk. [preprint](https://arxiv.org/abs/2510.22101) (* Corresponding author)
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/planner_r1.png" alt="Planner-R1">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2509.25779">Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs</a></div>
+    <div class="pub-authors">Siyu Zhu, Yanbin Jiang, Hejian Sang, Shao Tang, Qingquan Song, Biao He, Rohit Jain, <strong>Zhipeng Wang</strong>, Alborz Geramifard</div>
+    <div class="pub-venue">In review with ICLR 2026</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2509.25779">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/publications/scaling_up_slm.png" alt="Scaling Up SLM">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2510.22101">Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search</a></div>
+    <div class="pub-authors">Kayhan Behdin, Qingquan Song, Sriram Vasudevan, Jian Sheng, Xiaojing Ma, Z Zhou, Chuanrui Zhu, Guoyao Li, Chanh Nguyen, Sayan Ghosh, Hejian Sang, Ata Fatahi Baarzi, Sundara Raman Ramachandran, Xiaoqing Wang, Qing Lan, Qi Guo, Caleb Johnson, <strong>Zhipeng Wang</strong>*, Fedor Borisyuk</div>
+    <div class="pub-venue">Preprint (* Corresponding author)</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2510.22101">Paper</a>]</div>
+  </div>
+</div>
 
 ## Open Source Contributions
 
