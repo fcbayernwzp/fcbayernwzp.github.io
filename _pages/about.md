@@ -134,8 +134,8 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
   </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://openreview.net/forum?id=tyGfwG6xTh">Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction</a></div>
-    <div class="pub-authors">Ryan Lucas, Kayhan Behdin, <strong>Zhipeng Wang</strong>, Qingquan Song, Shao Tang, Rahul Mazumder</div>
-    <div class="pub-venue">ICLR 2026</div>
+    <div class="pub-authors">Ryan Lucas, Kayhan Behdin, <strong>Zhipeng Wang</strong>#, Qingquan Song, Shao Tang, Rahul Mazumder</div>
+    <div class="pub-venue">ICLR 2026 (# corresponding author)</div>
     <div class="pub-links">[<a href="https://openreview.net/forum?id=tyGfwG6xTh">Paper</a>]</div>
   </div>
 </div>
@@ -171,7 +171,7 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2509.25779">Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs</a></div>
     <div class="pub-authors">Siyu Zhu, Yanbin Jiang, Hejian Sang, Shao Tang, Qingquan Song, Biao He, Rohit Jain, <strong>Zhipeng Wang</strong>, Alborz Geramifard</div>
-    <div class="pub-venue">In review with ICLR 2026</div>
+    <div class="pub-venue">Preprint</div>
     <div class="pub-links">[<a href="https://arxiv.org/abs/2509.25779">Paper</a>]</div>
   </div>
 </div>
