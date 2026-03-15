@@ -15,7 +15,7 @@ I am a seasoned scientist & engineer working in the field of Machine Learning Sy
 In the corporate world, I am Senior Manager/Senior Staff Research Scientist leading the Foundational AI algorithms organization at LinkedIn (subsidary of Microsoft). Previously I worked at AWS AI organization at Amazon, where I was leading the SageMaker Applied Science Team contributing to LLM Inference/Distributed Training and Evaluation Services. I was also the Tech Lead Manager/Staff Software Engineer at Google[X]/Google Research, where I was building up the machine learning team for the Moonshot project [Chorus](https://x.company/projects/chorus/) and engaged in AIDA project building [coding agent using LLM](https://x.company/projects/aida/) (now part of Gemini). I was also involved in PaLM model development work across Alphabet. Before that I was Staff Research Scientist at Apple, where I lead the development of ML Algorithms for [Sleep Apnea Detection on Apple Watch](https://www.apple.com/health/pdf/sleep-apnea/Sleep_Apnea_Notifications_on_Apple_Watch_September_2024.pdf). 
 
 ## News
-- We won **Best Paper Award** in [Visual Art, Generative AI, and the Legal/Ethical Dilemma Workshop @ WACV 2026](https://sites.google.com/view/vagaled-wacv2026/) for our paper titled *"EZBlender: Efficient 3D Editing with Plan-and-React Agent"*!
+- We won **Best Paper Award** in [Visual Art, Generative AI, and the Legal/Ethical Dilemma Workshop @ WACV 2026](https://sites.google.com/view/vagaled-wacv2026/) for our paper titled *["EZBlender: Efficient 3D Editing with Plan-and-React Agent"](https://openaccess.thecvf.com/content/WACV2026W/VALED/papers/Wang_EZBlender_Efficient_3D_Editing_with_Plan-and-ReAct_Agent_WACVW_2026_paper.pdf)*!
 
 <!--# Selected Experiences-->
 ## Talks and Tutorials 
@@ -85,8 +85,8 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
   </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://aclanthology.org/2025.emnlp-industry.119.pdf">Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems</a></div>
-    <div class="pub-authors">Kayhan Behdin, Ata Fatahi, Qingquan Song, Yun Dai, Aman Gupta, <strong>Zhipeng Wang</strong> et al.</div>
-    <div class="pub-venue">EMNLP 2025</div>
+    <div class="pub-authors">Kayhan Behdin, Ata Fatahi, Qingquan Song, Yun Dai, Aman Gupta, <strong>Zhipeng Wang</strong># et al.</div>
+    <div class="pub-venue">EMNLP 2025 (# corresponding author)</div>
     <div class="pub-highlight">Oral Presentation</div>
     <div class="pub-links">[<a href="https://aclanthology.org/2025.emnlp-industry.119.pdf">Paper</a>]</div>
   </div>
