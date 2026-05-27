@@ -106,6 +106,18 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 <div class="pub-entry">
   <div class="pub-img">
+    <img src="/images/publications/icml2026_sppo.png" alt="S-SPPO">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://icml.cc/virtual/2026/poster/61018">S-SPPO: Semantic-Calibrated Self-Play Preference Optimization</a></div>
+    <div class="pub-authors">Xiwen Chen, Wenhui Zhu, Jingjing Wang, Peijie Qiu, <strong>Zhipeng Wang</strong>#, Huayu Li, ZhengXiao He, Xuanzhao Dong, Prayag Tiwari, Mingkun Xu, Yujian Xiong, Feng Luo, Abolfazl Razi, Brendan Rappazzo, Anderson Schneider, Yuriy Nevmyvaka</div>
+    <div class="pub-venue">ICML 2026 (# corresponding author)</div>
+    <div class="pub-links">[<a href="https://icml.cc/virtual/2026/poster/61018">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/publications/icml2025_liger_kernel.png" alt="Liger Kernel">
   </div>
   <div class="pub-text">
