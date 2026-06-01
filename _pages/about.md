@@ -81,6 +81,18 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 <div class="pub-entry">
   <div class="pub-img">
+    <img src="/images/publications/cais2026_query_routing.png" alt="Robust Batch-Level Query Routing">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3786335.3813134">Robust Batch-Level Query Routing for Large Language Models under Cost and Capacity Constraints</a></div>
+    <div class="pub-authors">Jelena Markovic-Voronov, Kayhan Behdin, Yuanda Xu, Zhengze Zhou, <strong>Zhipeng Wang</strong>#, Rahul Mazumder</div>
+    <div class="pub-venue">ACM Conference on AI and Agentic Systems 2026 (# corresponding author)</div>
+    <div class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3786335.3813134">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/publications/acl2026_aha.png" alt="AHA">
   </div>
   <div class="pub-text">
