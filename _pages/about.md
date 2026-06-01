@@ -81,6 +81,18 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 <div class="pub-entry">
   <div class="pub-img">
+    <img src="/images/publications/acl2026_distill_essence.png" alt="Distilling the Essence">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/pdf/2512.21002">Distilling the Essence: Efficient Reasoning Distillation via Sequence Truncation</a></div>
+    <div class="pub-authors">Wei-Rui Chen, Vignesh Kothapalli, Ata Fatahibaarzi, Hejian Sang, Shao Tang, Qingquan Song, <strong>Zhipeng Wang</strong>#, Muhammad Abdul-Mageed</div>
+    <div class="pub-venue">ACL 2026 (# corresponding author)</div>
+    <div class="pub-links">[<a href="https://arxiv.org/pdf/2512.21002">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/publications/cais2026_query_routing.png" alt="Robust Batch-Level Query Routing">
   </div>
   <div class="pub-text">
