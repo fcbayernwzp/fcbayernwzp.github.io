@@ -81,6 +81,18 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 <div class="pub-entry">
   <div class="pub-img">
+    <img src="/images/publications/acl2026_sta.png" alt="Single Token Alignment">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://openreview.net/pdf?id=ckeyYPaVug">You Only Need One Single Token to Refine Safety Alignment</a></div>
+    <div class="pub-authors">Wenqian Yu, Shuo Chen, Zhijiang Li, <strong>Zhipeng Wang</strong>, Jindong Gu</div>
+    <div class="pub-venue">ACL 2026</div>
+    <div class="pub-links">[<a href="https://openreview.net/pdf?id=ckeyYPaVug">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/publications/emnlp2025_scaling_down.png" alt="Scaling Down, Serving Fast">
   </div>
   <div class="pub-text">
