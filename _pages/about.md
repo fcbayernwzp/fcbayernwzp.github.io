@@ -81,6 +81,18 @@ In the corporate world, I am Senior Manager/Senior Staff Research Scientist lead
 
 <div class="pub-entry">
   <div class="pub-img">
+    <img src="/images/publications/acl2026_aha.png" alt="AHA">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/pdf/2512.24052">AHA: Aligning Large Audio-Language Models for Reasoning Hallucinations via Counterfactual Hard Negatives</a></div>
+    <div class="pub-authors">Yanxi Chen, Wenhui Zhu, Xiwen Chen, <strong>Zhipeng Wang</strong>#, Xin Li, Peijie Qiu, Hao Wang, Xuanzhao Dong, Yujian Xiong, Anderson Schneider, Yuriy Nevmyvaka, Yalin Wang</div>
+    <div class="pub-venue">ACL 2026 (# corresponding author)</div>
+    <div class="pub-links">[<a href="https://arxiv.org/pdf/2512.24052">Paper</a>]</div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/publications/acl2026_sta.png" alt="Single Token Alignment">
   </div>
   <div class="pub-text">
