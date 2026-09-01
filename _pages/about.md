@@ -16,6 +16,7 @@ In the corporate world, I am currently the Senior Staff Software Engineer/Resear
 
 ## News
 - Two papers accepted by **EMNLP 2026**, see you in Budapest!
+- Three papers accepted by **ACL 2026**, see you in San Diego!
 - We won **Best Paper Award** in [Visual Art, Generative AI, and the Legal/Ethical Dilemma Workshop @ WACV 2026](https://sites.google.com/view/vagaled-wacv2026/) for our paper titled *["EZBlender: Efficient 3D Editing with Plan-and-React Agent"](https://openaccess.thecvf.com/content/WACV2026W/VALED/papers/Wang_EZBlender_Efficient_3D_Editing_with_Plan-and-ReAct_Agent_WACVW_2026_paper.pdf)*!
 
 <!--# Selected Experiences-->
